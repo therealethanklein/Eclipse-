@@ -9,7 +9,7 @@ The deployable all-in-one bundle for [Eclipse∞](https://github.com/therealetha
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/titaniumnetwork-dev/Eclipse-/wiki/Run-on-Replit)
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://github.com/titaniumnetwork-dev/Eclipse-/wiki/Deploy-on-Railway)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://github.com/titaniumnetwork-dev/Eclipse-/wiki/Remix-on-Glitch)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/titaniumnetwork-dev/Eclipse-/wiki/Deploy-to-Koyeb)
+[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/[GITHUB%20USERNAME]/Eclipse-&branch=main&name=Eclipse%E2%88%9E)
 
 If you are deploying to an alternative service or to a server, refer to [Deploy via terminal](https://github.com/therealethanklein/Eclipse-/wiki/Deploy-via-terminal).
 
