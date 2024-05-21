@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/therealethanklein/Eclipse∞-Static/main/public/uv.png" height="200"></p>
+<p align="center"><img src="https://github.com/therealethanklein/Eclipse-/blob/main/whgC3vbJMwyorqhgXGwj--1--26tzz%20(1).jpg" height="200"></p>
 
 <h1 align="center">Eclipse∞-</h1>
 
