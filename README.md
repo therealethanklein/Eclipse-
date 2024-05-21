@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/therealethanklein/Eclipse-/blob/main/whgC3vbJMwyorqhgXGwj--1--26tzz%20(1).jpg" height="200"></p>
 
-<h1 align="center">Eclipse∞-</h1>
+<h1 align="center">Eclipse∞</h1>
 
 The deployable all-in-one bundle for [Eclipse∞](https://github.com/therealethanklein/Eclipse∞), a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
 
