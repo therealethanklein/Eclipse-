@@ -1,7 +1,7 @@
 import express from "express";
 import { createServer } from "node:http";
-import { publicPath } from "Eclipse∞";
-import { uvPath } from "@therealethanklein/Eclipse∞";
+import { publicPath } from "ultraviolet-static";
+import { uvPath } from "@titaniumnetwork-dev/ultraviolet";
 import { epoxyPath } from "@mercuryworkshop/epoxy-transport";
 import { baremuxPath } from "@mercuryworkshop/bare-mux";
 import { join } from "node:path";
